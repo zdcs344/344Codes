@@ -1,0 +1,623 @@
+{
+    "classify": [
+        {
+            "id": "8387a52cf5f44bc784e22ff6f36e3cd3",
+            "name": "新分类"
+        }
+    ],
+    "page": [
+        {
+            "id": "1c6791df240c41e583d01581aa66de58",
+            "name": "首页",
+            "title": "",
+            "classifyId": "8387a52cf5f44bc784e22ff6f36e3cd3",
+            "shareAble": false,
+            "shareContent": "",
+            "tabBar": true,
+            "style": {
+                "backgroundColor": "",
+                "backgroundImage": "none",
+                "backgroundSize": "100% auto",
+                "backgroundPosition": "top left",
+                "backgroundRepeat": "repeat-y"
+            },
+            "appStyle": "background-color: ;background-image: none;background-size: 100% auto;background-position: top left;background-repeat: repeat-y;",
+            "h5Style": "background-color: ;background-image: none;background-size: 100% auto;background-position: top left;background-repeat: repeat-y;",
+            "appTypes": [],
+            "elements": [
+                {
+                    "id": "40bad03c73fa4707aa5595135229ed71",
+                    "type": "tpl_image",
+                    "pid": null,
+                    "value": {
+                        "data": "http://image-10064610.image.myqcloud.com/i/17/06/29/0dc6d8eb38906a53caa3a7b57f8ab82c.png?imageMogr2/auto-orient/thumbnail/640x/quality/70"
+                    },
+                    "style": {
+                        "marginRight": 0,
+                        "backgroundColor": "",
+                        "paddingBottom": 0,
+                        "paddingRight": 0,
+                        "marginBottom": 0,
+                        "paddingTop": 0,
+                        "paddingLeft": 0,
+                        "marginTop": 0,
+                        "marginLeft": 0
+                    },
+                    "appStyle": "padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;background-color: ;",
+                    "h5Style": "padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;background-color: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {
+                        "width": 100,
+                        "ratio": 3.08
+                    },
+                    "target": null
+                },
+                {
+                    "id": "e30f85e8b5af48cd8e14012c27ae7574",
+                    "type": "tpl_image",
+                    "pid": null,
+                    "value": {
+                        "data": "http://image-10064610.image.myqcloud.com/i/17/06/29/b1b710f5d0fcdad3499e799fae8988c7.png?imageMogr2/auto-orient/thumbnail/640x/quality/70"
+                    },
+                    "style": {
+                        "marginRight": 0,
+                        "backgroundColor": "",
+                        "paddingBottom": 0,
+                        "paddingRight": 0,
+                        "marginBottom": 0,
+                        "paddingTop": 0,
+                        "paddingLeft": 0,
+                        "marginTop": 0,
+                        "marginLeft": 0
+                    },
+                    "appStyle": "margin-right: 0;background-color: ;padding-bottom: 0;padding-right: 0;margin-bottom: 0;padding-top: 0;padding-left: 0;margin-top: 0;margin-left: 0;",
+                    "h5Style": "margin-right: 0;background-color: ;padding-bottom: 0;padding-right: 0;margin-bottom: 0;padding-top: 0;padding-left: 0;margin-top: 0;margin-left: 0;",
+                    "event": {
+                        "param": "/pages/b8c1a2c7bcdc4dc999a32cc1c1478fe6",
+                        "action": "jump"
+                    },
+                    "custom": {
+                        "width": 100,
+                        "ratio": 3.56
+                    },
+                    "target": null
+                },
+                {
+                    "id": "bc167786053543f6a487772344fe1832",
+                    "type": "tpl_image",
+                    "pid": null,
+                    "value": {
+                        "data": "http://image-10064610.image.myqcloud.com/i/17/06/29/3652e735bbe5f255b153261d13066ef0.png?imageMogr2/auto-orient/thumbnail/640x/quality/70"
+                    },
+                    "style": {
+                        "marginRight": 0,
+                        "backgroundColor": "",
+                        "paddingBottom": 0,
+                        "paddingRight": 0,
+                        "marginBottom": 0,
+                        "paddingTop": 0,
+                        "paddingLeft": 0,
+                        "marginTop": 0,
+                        "marginLeft": 0
+                    },
+                    "appStyle": "margin-right: 0;background-color: ;padding-bottom: 0;padding-right: 0;margin-bottom: 0;padding-top: 0;padding-left: 0;margin-top: 0;margin-left: 0;",
+                    "h5Style": "margin-right: 0;background-color: ;padding-bottom: 0;padding-right: 0;margin-bottom: 0;padding-top: 0;padding-left: 0;margin-top: 0;margin-left: 0;",
+                    "event": {
+                        "param": "/pages/96cf7d16268545a588301c221196b612",
+                        "action": "jump"
+                    },
+                    "custom": {
+                        "width": 100,
+                        "ratio": 3.56
+                    },
+                    "target": null
+                },
+                {
+                    "id": "f8c9bfe64c7042bcbe26cb4aa40165a4",
+                    "type": "tpl_image",
+                    "pid": null,
+                    "value": {
+                        "data": "http://image-10064610.image.myqcloud.com/i/17/06/29/1cfc3ee7b69e690dab6d1131f4b6412b.png?imageMogr2/auto-orient/thumbnail/640x/quality/70"
+                    },
+                    "style": {
+                        "marginRight": 0,
+                        "backgroundColor": "",
+                        "paddingBottom": 0,
+                        "paddingRight": 0,
+                        "marginBottom": 0,
+                        "paddingTop": 0,
+                        "paddingLeft": 0,
+                        "marginTop": 0,
+                        "marginLeft": 0
+                    },
+                    "appStyle": "margin-right: 0;background-color: ;padding-bottom: 0;padding-right: 0;margin-bottom: 0;padding-top: 0;padding-left: 0;margin-top: 0;margin-left: 0;",
+                    "h5Style": "margin-right: 0;background-color: ;padding-bottom: 0;padding-right: 0;margin-bottom: 0;padding-top: 0;padding-left: 0;margin-top: 0;margin-left: 0;",
+                    "event": {
+                        "param": "",
+                        "action": "contact"
+                    },
+                    "custom": {
+                        "width": 100,
+                        "ratio": 3.56
+                    },
+                    "target": null
+                },
+                {
+                    "id": "cdf4da3b2c28424e85928288e79a83ac",
+                    "type": "tpl_image",
+                    "pid": null,
+                    "value": {
+                        "data": "http://image-10064610.image.myqcloud.com/i/17/06/29/f9e11fa52431f1141a0805b7d6edc2ac.png?imageMogr2/auto-orient/thumbnail/640x/quality/70"
+                    },
+                    "style": {
+                        "marginRight": 0,
+                        "backgroundColor": "",
+                        "paddingBottom": 0,
+                        "paddingRight": 0,
+                        "marginBottom": 0,
+                        "paddingTop": 0,
+                        "paddingLeft": 0,
+                        "marginTop": 0,
+                        "marginLeft": 0
+                    },
+                    "appStyle": "padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;background-color: ;",
+                    "h5Style": "padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;background-color: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {
+                        "width": 100,
+                        "ratio": 3.56
+                    },
+                    "target": null
+                }
+            ],
+            "url": "/pages/1c6791df240c41e583d01581aa66de58"
+        },
+        {
+            "id": "b8c1a2c7bcdc4dc999a32cc1c1478fe6",
+            "name": "商城",
+            "title": "",
+            "classifyId": "8387a52cf5f44bc784e22ff6f36e3cd3",
+            "shareAble": false,
+            "shareContent": "",
+            "tabBar": false,
+            "style": {
+                "backgroundColor": "",
+                "backgroundImage": "none",
+                "backgroundSize": "100% auto",
+                "backgroundPosition": "top left",
+                "backgroundRepeat": "repeat-y"
+            },
+            "appStyle": "background-color: ;background-image: none;background-repeat: repeat-y;background-position: top left;background-size: 100% auto;",
+            "h5Style": "background-color: ;background-image: none;background-repeat: repeat-y;background-position: top left;background-size: 100% auto;",
+            "appTypes": [],
+            "elements": [
+                {
+                    "id": "4f46dfbdbd084778976c6f6e2154302a",
+                    "type": "tpl_image",
+                    "pid": null,
+                    "value": {
+                        "data": "http://image-10064610.image.myqcloud.com/i/17/06/29/730d6c68f68d6b5b2c4be5da8d8af6e5.png?imageMogr2/auto-orient/thumbnail/640x/quality/70"
+                    },
+                    "style": {
+                        "marginRight": 0,
+                        "backgroundColor": "",
+                        "paddingBottom": 0,
+                        "paddingRight": 0,
+                        "marginBottom": 0,
+                        "paddingTop": 0,
+                        "paddingLeft": 0,
+                        "marginTop": 0,
+                        "marginLeft": 0
+                    },
+                    "appStyle": "padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;background-color: ;",
+                    "h5Style": "padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;background-color: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {
+                        "width": 100,
+                        "ratio": 3.08
+                    },
+                    "target": null
+                },
+                {
+                    "id": "310cb700cbff4bd89f2b90405e038728",
+                    "type": "tpl_sc",
+                    "pid": null,
+                    "value": {},
+                    "style": {
+                        "marginRight": 0,
+                        "backgroundColor": "",
+                        "paddingBottom": 0,
+                        "paddingRight": 0,
+                        "marginBottom": 0,
+                        "paddingTop": 0,
+                        "paddingLeft": 0,
+                        "marginTop": 0,
+                        "marginLeft": 0
+                    },
+                    "appStyle": "background-color: ;",
+                    "h5Style": "background-color: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {
+                        "classify": [],
+                        "column": 2,
+                        "row": 4
+                    },
+                    "target": null
+                },
+                {
+                    "id": "237f30dc3d384e519879eb8c510b0916",
+                    "type": "tpl_text",
+                    "pid": null,
+                    "value": {
+                        "data": [
+                            "全部商品"
+                        ]
+                    },
+                    "style": {
+                        "color": "#000",
+                        "textAlign": "center",
+                        "paddingRight": 10,
+                        "textDecoration": "",
+                        "fontStyle": "",
+                        "marginLeft": 0,
+                        "marginRight": 0,
+                        "paddingBottom": 5,
+                        "marginBottom": 0,
+                        "fontSize": 16,
+                        "paddingTop": 5,
+                        "paddingLeft": 10,
+                        "marginTop": 0,
+                        "fontWeight": ""
+                    },
+                    "appStyle": "padding-top: 10rpx;padding-right: 20rpx;padding-bottom: 10rpx;padding-left: 20rpx;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 32rpx;text-align: center;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "h5Style": "padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 16px;text-align: center;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {},
+                    "target": null
+                }
+            ],
+            "url": "/pages/b8c1a2c7bcdc4dc999a32cc1c1478fe6"
+        },
+        {
+            "id": "96cf7d16268545a588301c221196b612",
+            "name": "平台介绍",
+            "title": "",
+            "classifyId": "8387a52cf5f44bc784e22ff6f36e3cd3",
+            "shareAble": false,
+            "shareContent": "",
+            "tabBar": false,
+            "style": {
+                "backgroundColor": "",
+                "backgroundImage": "none",
+                "backgroundSize": "100% auto",
+                "backgroundPosition": "top left",
+                "backgroundRepeat": "repeat-y"
+            },
+            "appStyle": "background-color: ;background-image: none;background-size: 100% auto;background-position: top left;background-repeat: repeat-y;",
+            "h5Style": "background-color: ;background-image: none;background-size: 100% auto;background-position: top left;background-repeat: repeat-y;",
+            "appTypes": [],
+            "elements": [
+                {
+                    "id": "a268accea22640c98368c97a207c6214",
+                    "type": "tpl_text",
+                    "pid": null,
+                    "value": {
+                        "data": [
+                            "平台介绍"
+                        ]
+                    },
+                    "style": {
+                        "color": "#000",
+                        "textAlign": "center",
+                        "paddingRight": 10,
+                        "textDecoration": "",
+                        "fontStyle": "",
+                        "marginLeft": 0,
+                        "marginRight": 0,
+                        "paddingBottom": 5,
+                        "marginBottom": 0,
+                        "fontSize": 16,
+                        "paddingTop": 5,
+                        "paddingLeft": 10,
+                        "marginTop": 0,
+                        "fontWeight": ""
+                    },
+                    "appStyle": "padding-top: 10rpx;padding-right: 20rpx;padding-bottom: 10rpx;padding-left: 20rpx;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 32rpx;text-align: center;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "h5Style": "padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 16px;text-align: center;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {},
+                    "target": null
+                },
+                {
+                    "id": "73d2b4e3e643404d9a235acc20458695",
+                    "type": "tpl_text",
+                    "pid": null,
+                    "value": {
+                        "data": [
+                            "薇信和他的小伙伴们成都信息技术有限公司（简称：薇信小伙伴）创建于新媒体时代。公司聚合了一大批具有共同梦想的移动互联网人才、技术和资源，专注于微信公众号的人工智能运营平台和小程序的场景解决方案服务。公司办公室位于环境优美、设施现代化的成都腾讯大厦，是腾讯成都双创重点孵化企业；是微信支付和腾讯社交广告的特约服务商；是微信扫一扫、微信摇一摇和微信卡包的深度合作伙伴；是中国西部国际博览会智慧展览展示全程运营商。",
+                            "薇信小伙伴作为“互联网+”落地应用和微信商业化的先行者和践行者。旗下拥有两大核心平台与品牌：",
+                            "微运赢——基于微信公众号的人工智能运营平台，以平台为依托为企业的微信运营匹配：智能的运营系统、丰富的运营资源、科学的运营管控、专业的运营培训和高效的运营执行。让企业的微信运营简单、专业、高效。",
+                            "场景录——基于小程序的场景解决方案服务平台，场景即产品，场景即服务，场景即销量，帮助企业架构“以用户互动体验为核心”的产品与服务。",
+                            "已赢得较好的合作伙伴与市场认同，先后为中国西部国际博览会、洋河股份、泸州老窖、中国泡菜城、拉夏贝尔服饰、迅捷通讯、环太苦荞、苏泊尔电器、天友乳业、蓝天化妆品、布兰奇洗衣连锁等企业提供专业的运营与场景服务。",
+                            "“为客户创造价值 让员工成就梦想”是我们的理念：“帮助企业搭上互联网+的快车，实现转型升级”是我们的责任和使命；公司在成都、重庆、深圳、广州、郑州等地设有研发中心和市场中心。我们将不断开发和整合互联网与传统行业的优质资源，提供更好的平台和更优质的服务。"
+                        ]
+                    },
+                    "style": {
+                        "color": "#000",
+                        "textAlign": "left",
+                        "paddingRight": 10,
+                        "textDecoration": "",
+                        "fontStyle": "",
+                        "marginLeft": 0,
+                        "marginRight": 0,
+                        "paddingBottom": 5,
+                        "marginBottom": 0,
+                        "fontSize": 16,
+                        "paddingTop": 5,
+                        "paddingLeft": 10,
+                        "marginTop": 0,
+                        "fontWeight": ""
+                    },
+                    "appStyle": "padding-top: 10rpx;padding-right: 20rpx;padding-bottom: 10rpx;padding-left: 20rpx;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 32rpx;text-align: left;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "h5Style": "padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 16px;text-align: left;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {},
+                    "target": null
+                }
+            ],
+            "url": "/pages/96cf7d16268545a588301c221196b612"
+        },
+        {
+            "id": "4ea28e2d594a4560a7823ee4f1487349",
+            "name": "联系我们",
+            "title": "",
+            "classifyId": "8387a52cf5f44bc784e22ff6f36e3cd3",
+            "shareAble": false,
+            "shareContent": "",
+            "tabBar": true,
+            "style": {
+                "backgroundColor": "",
+                "backgroundImage": "none",
+                "backgroundSize": "100% auto",
+                "backgroundPosition": "top left",
+                "backgroundRepeat": "repeat-y"
+            },
+            "appStyle": "background-color: ;background-image: none;background-size: 100% auto;background-position: top left;background-repeat: repeat-y;",
+            "h5Style": "background-color: ;background-image: none;background-size: 100% auto;background-position: top left;background-repeat: repeat-y;",
+            "appTypes": [],
+            "elements": [
+                {
+                    "id": "d22eb0ae82474faf91b340c518089d6c",
+                    "type": "tpl_text",
+                    "pid": null,
+                    "value": {
+                        "data": [
+                            "联系我们"
+                        ]
+                    },
+                    "style": {
+                        "color": "#000",
+                        "textAlign": "center",
+                        "paddingRight": 10,
+                        "textDecoration": "",
+                        "fontStyle": "",
+                        "marginLeft": 0,
+                        "marginRight": 0,
+                        "paddingBottom": 5,
+                        "marginBottom": 0,
+                        "fontSize": 16,
+                        "paddingTop": 5,
+                        "paddingLeft": 10,
+                        "marginTop": 0,
+                        "fontWeight": ""
+                    },
+                    "appStyle": "padding-top: 10rpx;padding-right: 20rpx;padding-bottom: 10rpx;padding-left: 20rpx;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 32rpx;text-align: center;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "h5Style": "padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 16px;text-align: center;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {},
+                    "target": null
+                },
+                {
+                    "id": "3bf80fc4788b4408a56716dc8b66f71c",
+                    "type": "tpl_text",
+                    "pid": null,
+                    "value": {
+                        "data": [
+                            "薇信和他的小伙伴们成都信息技术有限公司",
+                            "联系我们",
+                            "地址：成都市天府三街219号腾讯大厦B座",
+                            "邮编：610000",
+                            "客服服务",
+                            "服务热线：18349297197 13880541376",
+                            "代理热线：13408596301"
+                        ]
+                    },
+                    "style": {
+                        "color": "#000",
+                        "textAlign": "left",
+                        "paddingRight": 10,
+                        "textDecoration": "",
+                        "fontStyle": "",
+                        "marginLeft": 0,
+                        "marginRight": 0,
+                        "paddingBottom": 5,
+                        "marginBottom": 0,
+                        "fontSize": 16,
+                        "paddingTop": 5,
+                        "paddingLeft": 10,
+                        "marginTop": 0,
+                        "fontWeight": ""
+                    },
+                    "appStyle": "padding-top: 10rpx;padding-right: 20rpx;padding-bottom: 10rpx;padding-left: 20rpx;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 32rpx;text-align: left;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "h5Style": "padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;font-size: 16px;text-align: left;color: #000;font-weight: ;font-style: ;text-decoration: ;",
+                    "event": {
+                        "param": "",
+                        "action": "none"
+                    },
+                    "custom": {},
+                    "target": null
+                }
+            ],
+            "url": "/pages/4ea28e2d594a4560a7823ee4f1487349"
+        }
+    ],
+    "tabBar": {
+        "color": "#FFB300",
+        "selectedColor": "#FFB300",
+        "borderStyle": "white",
+        "backgroundColor": "#f0f0f0",
+        "appTypes": [
+            "wxapp-shop",
+            "wxapp-shop"
+        ],
+        "list": [
+            {
+                "text": "首页",
+                "iconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/242853b5cd962ed8bb2dc5c32277aafe.png?imageMogr2/auto-orient/thumbnail/96x",
+                "selectIconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/2d5d3d8af3a64dfaf90d5299c2735a18.png?imageMogr2/auto-orient/thumbnail/96x",
+                "pageUrl": "pages/1c6791df240c41e583d01581aa66de58"
+            },
+            {
+                "text": "个人中心",
+                "iconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/ec2b2f9b99a0b3c5cfad78e684c4696d.png?imageMogr2/auto-orient/thumbnail/96x",
+                "selectIconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/5da0bc545122e1a8d2dda24fb835072f.png?imageMogr2/auto-orient/thumbnail/96x",
+                "pageUrl": "vendor/wxapp-shop-model/pages/personal/personal"
+            },
+            {
+                "text": "购物车",
+                "iconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/3d21ccafb6fa4b86ae967a5830af73ec.png?imageMogr2/auto-orient/thumbnail/96x",
+                "selectIconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/1a07e9fc737562c2606cb7467b8ca7be.png?imageMogr2/auto-orient/thumbnail/96x",
+                "pageUrl": "vendor/wxapp-shop-model/pages/cart/cart"
+            },
+            {
+                "text": "联系我们",
+                "iconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/0608210e9078edcf58cafe6357a1c8a8.png?imageMogr2/auto-orient/thumbnail/96x",
+                "selectIconUrl": "http://image-10064610.image.myqcloud.com/i/17/06/29/ae01d6fa021c8d0c306a53654eca5a92.png?imageMogr2/auto-orient/thumbnail/96x",
+                "pageUrl": "pages/4ea28e2d594a4560a7823ee4f1487349"
+            }
+        ],
+        "enableEdit": false
+    },
+    "lastLogId": "b4e9a8bcfd814786b3f53e9308e28a85",
+    "advanceSetting": {
+        "center": {
+            "appTypes": [
+                "tpl_sc",
+                "tpl_sc",
+                "tpl_sc",
+                "tpl_sc",
+                "tpl_sc"
+            ],
+            "background": null,
+            "models": [
+                {
+                    "id": "0ed7ab10298511e7a40a1866da19142d",
+                    "modelType": "sc_order",
+                    "modelName": "我的订单",
+                    "modelLink": "/vendor/wxapp-shop-model/pages/order/order",
+                    "nativeType": "tpl_sc",
+                    "enable": true,
+                    "check": true
+                },
+                {
+                    "id": "614c2f2e407411e7a2ae1866da19142d",
+                    "modelType": "sc_money",
+                    "modelName": "用户充值",
+                    "modelLink": "/vendor/wxapp-shop-model/pages/recharge/recharge",
+                    "nativeType": "tpl_sc",
+                    "enable": true,
+                    "check": true
+                },
+                {
+                    "id": "1bf970925bfd11e7a6a66c0b84d5413a",
+                    "modelType": "sc_member_card",
+                    "modelName": "我的会员卡",
+                    "modelLink": "",
+                    "nativeType": "tpl_sc",
+                    "enable": true,
+                    "check": false
+                },
+                {
+                    "id": "61506d7a407411e7a2ae1866da19142d",
+                    "modelType": "sc_user",
+                    "modelName": "个人资料",
+                    "modelLink": "/vendor/wxapp-shop-model/pages/baseinfo/baseinfo",
+                    "nativeType": "tpl_sc",
+                    "enable": true,
+                    "check": true
+                },
+                {
+                    "id": "0edd8ad2298511e7a40a1866da19142d",
+                    "modelType": "sc_address",
+                    "modelName": "地址管理",
+                    "modelLink": "/vendor/wxapp-shop-model/pages/deliveryAddress/deliveryAddress",
+                    "nativeType": "tpl_sc",
+                    "enable": true,
+                    "check": true
+                },
+                {
+                    "id": "9557ba75298311e7a40a1866da19142d",
+                    "modelType": "sc_car",
+                    "modelName": "购物车",
+                    "modelLink": "/vendor/wxapp-shop-model/pages/cart/cart",
+                    "nativeType": "tpl_sc",
+                    "enable": true,
+                    "check": true
+                }
+            ],
+            "memberCardId": "pn-YDwlKkSqrgGQjV3NW8gK3LB9g"
+        },
+        "shop": {
+            "classifyShow": true,
+            "styleLayout": "red",
+            "mainColor": "#ED5564",
+            "matchColor": "#F6B041",
+            "swiperId": 1000002842780,
+            "listStyle": 1,
+            "centerBackground": "http://image-10064610.image.myqcloud.com/i/17/06/28/506bbfe8dc1dfd6af9a09f440739993f.JPG?imageMogr2/auto-orient/thumbnail/640x/quality/70",
+            "layouts": [
+                {
+                    "code": "red",
+                    "mainColor": "#ED5564",
+                    "matchColor": "#F6B041"
+                },
+                {
+                    "code": "green",
+                    "mainColor": "#8CC051",
+                    "matchColor": "#F6B041"
+                },
+                {
+                    "code": "yellow",
+                    "mainColor": "#FEBC20",
+                    "matchColor": "#666666"
+                }
+            ],
+            "swipers": []
+        },
+        "templetId": null
+    }
+}
